@@ -9,7 +9,6 @@ const Header =()=>{
     if(!showMenu){
 
     }
-
     return (
         <>
         <header className="flex flex-row justify-between bg-gray-900 text-white p-4 items-center max-md:relative border-b-2 border-cyan-400">
