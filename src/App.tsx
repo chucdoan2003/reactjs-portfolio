@@ -1,3 +1,4 @@
+import About from "./components/About"
 import Header from "./components/Header"
 
 function App() {
@@ -5,6 +6,7 @@ function App() {
     <>
      <div className="">
         <Header/>
+        <About/>
      </div>
     </>
   )
