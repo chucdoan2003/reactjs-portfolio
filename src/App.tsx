@@ -1,5 +1,6 @@
 import About from "./components/About"
 import Header from "./components/Header"
+import Project from "./components/Project"
 
 function App() {
   return (
@@ -7,6 +8,7 @@ function App() {
      <div className="">
         <Header/>
         <About/>
+        <Project/>
      </div>
     </>
   )
