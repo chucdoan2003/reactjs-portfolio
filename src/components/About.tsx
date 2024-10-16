@@ -5,7 +5,7 @@ import { BiLogoInstagramAlt } from "react-icons/bi";
 const About=()=>{
     return (
         <>
-         <div className="about bg-gray-900 text-white flex flex-row flex-wrap justify-between md:px-14 pt-4 max-[891px]:justify-center max-md:flex max-md:flex-col max-md:items-center border-b-2 border-cyan-400 pb-3" id="home">
+         <div className="about bg-gray-900 text-white flex flex-row flex-wrap justify-around md:px-14 pt-4 max-[891px]:justify-center max-md:flex max-md:flex-col max-md:items-center border-b-2 border-cyan-400 pb-3" id="home">
             <div className="about-content">
                 <p className=" text-xl font-bold ">Hello, It's Me</p>
                 <p className="text-6xl font-bold my-2 max-md:text-4xl">Đoàn Bá Chúc</p>
