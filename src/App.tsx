@@ -1,4 +1,5 @@
 import About from "./components/About"
+import Education from "./components/Education"
 import Header from "./components/Header"
 import Project from "./components/Project"
 
@@ -9,6 +10,7 @@ function App() {
         <Header/>
         <About/>
         <Project/>
+        <Education/>
      </div>
     </>
   )
