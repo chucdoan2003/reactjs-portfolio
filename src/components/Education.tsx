@@ -8,7 +8,7 @@ const Education = ()=>{
             <h1 className="myproject text-center mb-3 " id="education"> <span className="myproject-pr text-cyan-400 text-4xl font-semibold">EDUCATION</span></h1>
 
             <div className="education flex flex-row md:gap-16 max-[796px]:gap-3 justify-center flex-wrap">
-                <div className="education-text text-2xl ">
+                <div className="education-text text-2xl max-md:px-4 ">
                     <p className="">FPT Polytechnic College (2022 - 2024)</p>
                     <p>Backend Developer</p>
                     <p>7th semester student</p>
